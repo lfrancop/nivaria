@@ -39,3 +39,4 @@ Os duelos tem data e hora marcada, e geram comoção na população, atraindo p�
 Não é tão incomum haver um duelo que não seria mortal, mas uma das partes acaba morrendo. As autoridades avaliam o contrato, entrevistam as testemunhas, e fazem uma vista grossa, pois entendem que mesmo que estivesse nos termos que não seria mortal, faz parte do risco intrínseco de um duelo.
 
 A não ser que evidências ou testemunhos deixem bem claro que houve intenção em desobedecer os termos ou que uma desistência não foi respeitada, dificilmente a pessoa que cometeu o assassinato ficará impune. O mais comum de ocorrer é no calor do combate e dos golpes, o vencedor não conseguir se segurar e dar um último golpe fatal antes que a vítima tenha oportunidade de desistir.
+
