@@ -69,5 +69,3 @@ Os prisioneiros são responsáveis por todas as atividades manuais de seus níve
 - Os guardas podem ou não podem ser corruptos, mas eles organizam lutas e torneios clandestinos entre os presos, para ganharem dinheiro com ingressos e apostas de nobres ricos que vão até a ilha assistir essas lutas;
 - Os personagens começarão como companheiros de cela, sendo que um estará sozinho, podendo ter um companheiro NPC criado no background ou estando sozinho na cela.
 
-
-
