@@ -65,5 +65,3 @@ Pra levar pra esses 3 pontos, tinha pensado em orfanato, em gente jovem, etc., e
 
 Faz sentido e estão ok com esses direcionamentos, ou querem criar algo mais livre?
 
-
-
