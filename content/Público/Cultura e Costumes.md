@@ -1,5 +1,5 @@
 
-## Ancestralidade
+# Ancestralidade
 
 O povo de Nivária possui forte conexão com suas ancestralidades, com senso de pertencimento e orgulho. Mesmo com a nação unificada, a grande maioria da população conhece suas origens, e vestem desde o nascimento alguma espécie de acessório que contenha o símbolo de sua família, clã e/ou tribos.
 
@@ -18,7 +18,7 @@ Mesmo que leve alguns meses ou anos, essas crianças que são identificadas cost
 ![[runas_elder_futhark.jpg]]
 
 
-## Duelos
+# Duelos
 
 Nivária possui uma cultura de duelos, que surgiu por conta da unificação das diversas tribos ancestrais da nação. Tudo era muito descentralizado, sem cidades e instituições, então as pessoas resolviam suas desavenças com base em disputas individuais, geralmente combates.
 
