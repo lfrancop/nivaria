@@ -1,6 +1,6 @@
 # Introdução
 
-![[Geisterberg 01.jpg]]
+![[Geisterberg_01.jpg]]
 
 ## A Prisão de Geisterberg
 
