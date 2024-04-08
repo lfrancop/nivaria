@@ -1,6 +1,6 @@
 # Introdução
 
-![[Nivária_sd.jpg]]
+![[Nivaria_sd.jpg]]
 
 Os primeiros habitantes de **Nivária**, elfos e anões, vieram de um Norte totalmente congelado, com poucos recursos, e ao atravessarem uma cadeia de montanhas encontraram um local de clima ameno e agradável. Possui invernos rigorosos, mas incomparáveis ou que passavam nos desertos gelados mais ao norte.
 
