@@ -1,6 +1,6 @@
 # Bem Vindo
 
-![[Nivária_sd.jpg]]
+![[Nivaria_sd.jpg]]
 
 Nivária é uma nação com origem em inúmeras tribos, hoje unificada sob um reinado e com um estranho fenômeno, chamado Ruptura.
 
