@@ -19,7 +19,7 @@ Nivária é fortemente militarizada, e o exército é composto de cinco diferent
 
 # A Ruptura
 
-![[Ruptura 03.jpg]]
+![[Ruptura_01.jpg]]
 
 A nação de **Nivária** é dividida por uma gigantesca **Ruptura das Sombras** (um "*vazamento*" de **Shadowfell**), que separa uma boa porção do território Leste do restante da nação, deixando **Arvandor** e outros territórios muito isolados do restante dos continentes.
 
