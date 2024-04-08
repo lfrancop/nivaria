@@ -1,4 +1,6 @@
 
+*Em desenvolvimento*
+
 Os primeiros habitantes de Nivária viviam anteriormente em um inverno constante, com dificuldade de arrumar abrigo e comida, e ao chegarem neste novo continente que possuía estações diferentes, nomearam os diferentes períodos do ano de acordo com suas rotinas.
 
 São 10 meses de 6 semanas com 5 dias cada, totalizando 300 dias.
