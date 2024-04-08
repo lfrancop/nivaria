@@ -50,4 +50,3 @@ São 10 meses de 6 semanas com 5 dias cada, totalizando 300 dias.
 - The Long Night (22nd of Stormfall)
 - Winter Solstice (14th of Frostfall)
 
-
