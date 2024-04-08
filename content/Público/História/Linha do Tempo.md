@@ -14,3 +14,6 @@
 - **Anos 2.500 a 2.700** - Ascenção do clã Tryndamer
 
 - **Ano 2.700** - Ascensão do rei Kolvar ao trono de Tryndamer
+
+
+
