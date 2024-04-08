@@ -104,3 +104,4 @@ Existe uma certa separação de poderes, e se não houver ordens explícitas do 
 Os membros do Exército Real e suas divisões usam como vestimenta um tabardo, uma túnica externa sem mangas, com capuz e capa, sobre quaisquer roupas ou armaduras que desejarem, para aqueles que possuem mais autonomia, ou o que seus superiores comandarem.
 
 Tabardo e capa possuem os símbolos referentes à divisão que o militar pertence, e quanto maior a patente maior a qualidade do tabardo que lhe é oferecido pelo Exército.
+
