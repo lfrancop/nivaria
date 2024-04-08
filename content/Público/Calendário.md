@@ -4,7 +4,7 @@ Os primeiros habitantes de Nivária viviam anteriormente em um inverno constante
 São 10 meses de 6 semanas com 5 dias cada, totalizando 300 dias.
 
 
-## Dias da Semana
+# Dias da Semana
 
 | Dia da Semana | Significado     |
 | ------------- | --------------- |
@@ -14,7 +14,7 @@ São 10 meses de 6 semanas com 5 dias cada, totalizando 300 dias.
 | Freitag       | Dia da Feira    |
 | Santag        | Dia do Descanso |
 
-## Nome dos Meses
+# Nome dos Meses
 
 | Nome do Mês | Estação do Ano    | Significado |
 | ----------- | ----------------- | ----------- |
@@ -30,7 +30,7 @@ São 10 meses de 6 semanas com 5 dias cada, totalizando 300 dias.
 | Festum      | Outono            | Banquete    |
 
 
-## Feriados e Festivais (escolher e ajustar nomes)
+# Feriados e Festivais (escolher e ajustar nomes)
 
 - Festival of Lights (1st of Snowfall)
 - Lover’s Day (2nd of Midwinter)
