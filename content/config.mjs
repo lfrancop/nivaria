@@ -2,9 +2,11 @@
 /**
  * @type {import("../config/siteConfig").UserConfig}
  */
-export default {};
 
 const config = {
+  title: "Nivária",
   showSidebar: true,
 };
+
+export default {};
 
