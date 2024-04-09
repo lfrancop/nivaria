@@ -105,3 +105,4 @@ Os membros do Exército Real e suas divisões usam como vestimenta um tabardo, u
 
 Tabardo e capa possuem os símbolos referentes à divisão que o militar pertence, e quanto maior a patente maior a qualidade do tabardo que lhe é oferecido pelo Exército.
 
+
