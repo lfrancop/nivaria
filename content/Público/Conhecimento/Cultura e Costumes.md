@@ -3,7 +3,7 @@
 
 O povo de Nivária possui forte conexão com suas ancestralidades, com senso de pertencimento e orgulho. Mesmo com a nação unificada, a grande maioria da população conhece suas origens, e vestem desde o nascimento alguma espécie de acessório que contenha o símbolo de sua família, clã e/ou tribos.
 
-![[runas_exemplo.jpeg]]
+![[runas_ex_1.jpg]]
 
 Esses acessórios costumam ser algum colar com pendente, anel ou pulseira que contenha o símbolo. Uma mesma família/tribo/clã costuma ter o mesmo acessório, que pode ser tão simples e humilde quanto entalhes em peças de madeira, quanto adornos detalhados em joalherias ricas.
 
@@ -15,7 +15,7 @@ Estudiosos da Capital consultam inúmeros registros na Biblioteca Central, e pos
 
 Mesmo que leve alguns meses ou anos, essas crianças que são identificadas costumam ser aceitas por seus familiares mais distantes, mesmo quando não sabiam de sua existência, por conta da honra tribal que grande parte do povo possui.
 
-![[runas_elder_futhark.jpg]]
+![[runas_ex_2.jpg]]
 
 
 # Duelos
