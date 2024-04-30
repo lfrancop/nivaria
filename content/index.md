@@ -8,3 +8,6 @@ Seja bem vindo e cuidado em sua jornada, Aventureiro.
 
 
 A Verdade Está na Luz.
+
+
+## Table of Contents
