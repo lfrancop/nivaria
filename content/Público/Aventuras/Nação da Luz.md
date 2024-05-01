@@ -39,6 +39,7 @@ Em noites especialmente escuras, principalmente no inverno, as criaturas das som
 - **Bruno**: (Fire)
 - **Leo Sacre**: (Cold)
 - **Pedro Henrique**: (Force)
+- **Pedro Paulo Rossi**: Personagem com background "18 pages, front and back"
 - **Yann**: Paladino do Voto dos Watchers (Lightning)
 
 ## Origem
