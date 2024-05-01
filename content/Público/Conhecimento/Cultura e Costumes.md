@@ -1,7 +1,7 @@
 
 # Ancestralidade
 
-O povo de Nivária possui forte conexão com suas ancestralidades, com senso de pertencimento e orgulho. Mesmo com a nação unificada, a grande maioria da população conhece suas origens, e vestem desde o nascimento alguma espécie de acessório que contenha o símbolo de sua família, clã e/ou tribos.
+O povo de Nivária possui forte conexão com suas ancestralidades, com senso de pertencimento e orgulho. Mesmo com a nação unificada, a grande maioria da população conhece suas origens, e vestem desde o nascimento alguma espécie de acessório que contenha o símbolo de sua família, clã ou tribo.
 
 ![[runas_ex_1.jpg]]
 
@@ -24,13 +24,13 @@ Nivária possui uma cultura de duelos, que surgiu por conta da unificação das 
 
 Conforme tribos foram virando vilas e cidades, e depois com o surgimento do governo centralizado na capital Tryndaméria, essa forma milenar de resolver problemas persistiu.
 
-Disputas territoriais privadas, acerto de dívidas, entre outras inúmeras formas de conflito, são coisas consideradas pequenas e de pouca importância para ocupar o tempo das instituições (policiamento, justiça, etc.), então permitiu-se continuar deixando os indivíduos se resolverem entre si, instaurando uma cultura de duelos.
+Disputas territoriais privadas, acerto de dívidas, entre outras inúmeras formas de conflito, são coisas consideradas pequenas e de pouca importância para ocupar o tempo das instituições (policiamento, justiça), então permitiu-se continuar deixando os indivíduos se resolverem entre si, instaurando uma cultura de duelos.
 
 Disputas são resolvidas através de um desafio para um duelo, que pode possuir qualquer molde, pois é feito um contrato entre as partes com os termos detalhados. O contrato pode ser tão simples quanto um "*luta até a morte, o vencedor leva tudo*" redigido e assinado em um guardanapo, ou tão complexo quanto um calhamaço de 50 páginas detalhando inúmeras cláusulas e condições por meio de advogados.
 
 Como exemplo de termos, os contratos podem definir que haverá duelo até a morte, até a desistência de uma das partes, combate em grupos. Desafiante e Desafiado assinam o contrato, assim como uma testemunha de cada lado, que deverão também estar presentes durante o duelo, e não poderão intervir de forma alguma.
 
-O contrato deve estipular minimamente o formato de disputa (combate um contra um, em grupo, até a morte, até desistência; corrida de cavalos, corrida a pé, disputa de tiro ao alvo, queda de braço; competições artísticas de dança, música, etc.) e algum prêmio (peças de ouro, terrenos, casamento, etc.).
+O contrato deve estipular minimamente o formato de disputa (combate um contra um, em grupo, até a morte, até desistência; corrida de cavalos, corrida a pé, disputa de tiro ao alvo, queda de braço; competições artísticas de dança, música) e algum prêmio (peças de ouro, terrenos, casamento).
 
 Os duelos tem data e hora marcada, e geram comoção na população, atraindo público, torcedores e apostadores.
 
@@ -38,6 +38,6 @@ Os duelos tem data e hora marcada, e geram comoção na população, atraindo p�
 
 Não é tão incomum haver um duelo que não seria mortal, mas uma das partes acaba morrendo. As autoridades avaliam o contrato, entrevistam as testemunhas, e fazem uma vista grossa, pois entendem que mesmo que estivesse nos termos que não seria mortal, faz parte do risco intrínseco de um duelo.
 
-A não ser que evidências ou testemunhos deixem bem claro que houve intenção em desobedecer os termos ou que uma desistência não foi respeitada, dificilmente a pessoa que cometeu o assassinato ficará impune. O mais comum de ocorrer é no calor do combate e dos golpes, o vencedor não conseguir se segurar e dar um último golpe fatal antes que a vítima tenha oportunidade de desistir.
+Quando evidências ou testemunhos deixam bem claro que houve intenção em desobedecer os termos ou que uma desistência não foi respeitada, dificilmente a pessoa que cometeu o assassinato ficará impune. O mais comum de ocorrer é no calor do combate e dos golpes, o vencedor não conseguir se segurar e dar um último golpe fatal antes que a vítima tenha oportunidade de desistir.
 
 
