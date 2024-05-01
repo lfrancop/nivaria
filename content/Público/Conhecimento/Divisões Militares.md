@@ -35,7 +35,7 @@ Hoje são forças especiais responsáveis por executar missões sensíveis a man
 
 ![[div_04_atalaia_égide.png]]
 
-São a **Polícia Militar**, soldados responsáveis pelo policiamento das cidades, portos e estradadas da nação, que compõe o maior número de militares e grande diferença e variação de habilidades e competências.
+São a **Polícia Militar**, soldados responsáveis pelo policiamento das cidades, portos e estradas da nação, que compõe o maior número de militares e grande diferença e variação de habilidades e competências.
 
 Esta divisão é o ponto de partida da maioria das carreiras militares, e aqueles que se destacam em suas atividades são promovidos para as outras divisões.
 
@@ -70,10 +70,10 @@ Apesar de estarem dentro do Exército Real, são uma divisão quase independente
 ## Cargos Hierárquicos
 
 - **Conde/Condessa** - Segundo em comando, que responde ao Comandante de sua divisão;
-- **Oficiais Superiores** - Tenente > Major
+- **Oficiais Superiores** - Major > Tenente
 ![[patentes_02-of_sup.jpg]]
 
-- **Oficiais Intermediários** - Capitão > Cavaleiro > Aspirante
+- **Oficiais Intermediários** - Aspirante > Cavaleiro > Capitão
 ![[patentes_03-of_int.jpg]]
 
 - **Subalternos** - Sargento > Combatente > Recruta
@@ -92,7 +92,7 @@ Os **Combatentes** são aqueles que durante seu tempo como **Recruta** receberam
 
 *Couraceiro* - armadura e/ou armamento pesado (Artificer, Barbarian, Cleric, Fighter, Paladin);
 *Carabineiros* - armadura e/ou armamento leves, ataque a distância (Bard, Gunslinger, Sorcerer, Wizard);
-*Patrulheiro*- armadura e/ou armamento leves, corpo a corpo e/ou furtivos (Druid, Ranger, Rogue, Monk, Warlock).
+*Patrulheiro* - armadura e/ou armamento leves, corpo a corpo e/ou furtivos (Druid, Ranger, Rogue, Monk, Warlock).
 
 As patentes mais altas também participam de combates, e recebem treinamentos cada vez mais especializados, liderando **Combatentes** ou formando unidades de elite, como cavalaria e tripulação de navios ou aerobarcos.
 
