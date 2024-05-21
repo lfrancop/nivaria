@@ -6,17 +6,17 @@
 
 Crimes leves, aqueles sem violência ou grave ameaça, como furtos leves, estelionatos de pequeno valor ou fraudes, são tratados localmente. Mesmo que o criminoso esteja diante de uma sentença de encarceramento por alguns anos, a natureza não violenta de seus crimes não justifica o envio para **Geisterberg**, e a **Vigília Eclipse** possui pequenas prisões espalhadas por **Nivária** pra cuidar desses casos.
 
-Já os crimes graves, como os hediondos que envolvem violência ou premeditação, necessitam de atenção especial. Para afastar e isolar estes criminosos da população, historicamente foram enviadas para a Ilha de **Geisterberg**, que possuía minas ricas em **Amarantine**, um cristal mágico anti gravidade presente nos locais gelados de **Nivária**. A ilha é muito fria durante todo o ano, e possui um inverno muito rigoroso. Qualquer um que já passou um inverno lá, sabe que apenas algumas horas sem roupas de frio do lado de fora podem ser mortais.
+Já os crimes graves, como os hediondos que envolvem violência ou premeditação, necessitam de atenção especial. Para afastar e isolar estes criminosos da população, historicamente foram enviadas para a Ilha de **Geisterberg**, que possuía minas ricas em **Amarantine**, um cristal mágico anti gravidade presente nos locais gelados de **Nivária**. A ilha é muito fria durante todo o ano, e possui um inverno muito rigoroso. Qualquer um que já passou um inverno lá, sabe que apenas algumas horas sem roupas adequadas do lado de fora podem ser mortais.
 
-O **Amarantine** é muito valioso em **Nivária**, capaz de manter flutuando até mesmo enormes pedaços de terra, criando ilhas aéreas. Seu maior uso é em aerobarcos, que permitiram a exploração dos continentes da nação.
+O **Amarantine** é muito valioso em **Nivária**, capaz de manter flutuando até mesmo enormes pedaços de terra, criando ilhas aéreas. Seu maior uso artificial é em aerobarcos, que permitiram a exploração dos continentes da nação.
 
-Por conta da localização e dificuldade de acesso, começou-se a enviar criminosos para fazer trabalho forçado de explorar as minas, e com o tempo o mineral se esgotou.
+Por conta da localização e dificuldade de acesso, começou-se a enviar criminosos para fazer trabalho forçado de explorar as minas, e com o tempo o mineral se esgotou na ilha.
 
-A ilha e suas instalações, que já vinham passando por diversas mudanças para acomodar esse uso, já estava completamente adaptada para se tornar uma prisão, e com os trabalhos nas minas encerrados, os túneis foram selados e acredita-se não haver mais **Amarantine**.
+A ilha e suas instalações, que já vinham passando por diversas mudanças para acomodar esse uso carcereiro, já estava completamente adaptada para se tornar uma prisão, e com os trabalhos nas minas encerrados, os túneis foram selados e acredita-se não haver mais **Amarantine**.
 
 ## Prisioneiros Gladiadores
 
-Os guardas organizam batalhas entre prisioneiros no último nível da prisão, uma verdadeira arena de gladiadores. Pessoas ricas vêm assistir e apostar, mas ficam fora da vista de prisioneiros, sendo impossível reconhecê-los. Isso é completamente ilegal, e desconhecida por qualquer autoridade externa.
+Os guardas organizam batalhas entre prisioneiros no último nível da prisão, uma verdadeira arena de gladiadores. Pessoas ricas vêm assistir e apostar, mas ficam fora da vista de prisioneiros, sendo impossível reconhecê-los. Isso é completamente ilegal, e desconhecido por qualquer autoridade externa.
 
 Os guardas “*patrocinam*” gladiadores, sozinhos ou em grupo, para combaterem entre si na arena, apostando entre os guardas quem tem a equipe que vai vencer, o que pode criar rixa entre os carcereiros.
 
@@ -30,11 +30,13 @@ Esses espectadores perceberam que de vez em quando os guardas recrutam prisionei
 
 Todos os prisioneiros chegam em **Geisterberg** por barco, desembarcam na praia e sobem algumas escadas, até passar por um grande portão e uma escadaria enorme que leva até a fortaleza que é a prisão em si.
 
-Ao entrarem nas muralhas da fortaleza, se encontram na **Vila dos Guardas**, e são processados no prédio de admissão onde ficam todos os pertences com os quais foram presos. A **Vigília Eclipse**, que é bastante corrupta, não tenta vender esses pertences pois já ganham dinheiro com as lutas arranjadas, e se algum pertence envolvido em um crime grave voltasse a aparecer pela nação e fosse reconhecido, traria muita atenção para a **Vigília**.
+Ao entrarem nas muralhas da fortaleza, se encontram na **Vila dos Guardas**, e são processados no prédio de admissão onde ficam todos os pertences com os quais foram presos. A parte corrupta da **Vigília Eclipse** não tenta vender esses pertences pois já ganham dinheiro com as lutas arranjadas, e se algum pertence envolvido em um crime grave voltasse a aparecer pela nação e fosse reconhecido, traria muita atenção para a **Vigília**.
 
 A vila é altamente exposta aos guardas dos prédios e das muralhas, sendo possível avistar uma grande torre octogonal no centro da fortaleza, onde se encontra a sala do diretor da prisão, o **Inquisidor**.
 
-Os prisioneiros são levados para esta torre central, onde há um elevador que dá acesso aos cinco níveis subterrâneos da prisão, e ao serem levados podem ver que existem guaritas pelo caminho, com guardas fazendo a segurança. É possível observar que os guardas mantêm alguns pertences dentro das guaritas, como as roupas de frio que utilizam do lado de fora e retiram quando descem, marmitas para suas refeições, jogos de tabuleiro para passar o tempo, entre outras pequenas coisas.
+Os prisioneiros são levados para esta torre central, onde há um elevador que dá acesso aos cinco níveis subterrâneos da prisão, e ao serem levados podem ver que existem guaritas pelo caminho, com guardas fazendo a segurança.
+
+É possível observar que os guardas mantêm alguns pertences dentro das guaritas, como as roupas de frio que utilizam do lado de fora e retiram quando descem, marmitas para suas refeições, jogos de tabuleiro para passar o tempo, entre outras pequenas coisas.
 
 ## O Poder da Vigília
 
