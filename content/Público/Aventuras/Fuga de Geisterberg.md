@@ -56,7 +56,7 @@ Os prisioneiros são responsáveis por todas as atividades manuais de seus níve
 - **Bruno**: 
 - **Leo Sacre**: Hexbard, multiclasse do Hexblade Warlock com o Swords Bard
 - **Pedro Henrique**: 
-- **Pedro Paulo Rossi**: 
+- **Pedro Paulo Rossi**: Gloomstalker Ranger, multiclasse com Battlemaster Fighter
 - **Yann**: Druida Tortle, druida das estrelas, talvez druida wildfire
 
 
